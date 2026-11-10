@@ -42,3 +42,9 @@ python train_model.py
 Run the dashboard:
 
 streamlit run app.py
+
+
+## Live Demo
+
+[Click here to use the AI Machine Failure Prediction Dashboard](https://ai-machine-failure-prediction-8nehasd8yhws57a69aicjd.streamlit.app/)
+
